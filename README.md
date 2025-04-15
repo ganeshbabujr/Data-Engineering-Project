@@ -3,7 +3,7 @@
 This project showcases a complete end-to-end data engineering solution using Azure services, focused on analyzing **customer behavior**, **product performance**, and **sales trends**. It demonstrates how to build scalable data pipelines and warehouses using Azure Data Factory, Databricks (Apache Spark), Azure Synapse Analytics, and Power BI.
 
 ---
-
+ 
 ## 📊 Business Use Case
 
 A retail company wants to:
